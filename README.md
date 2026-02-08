@@ -20,11 +20,3 @@ This is a minimal, fast portfolio site designed for GitHub Pages.
 - Replace `assets/og.png` with a real OpenGraph image
 
 
-
-
-# =========================
-# FILE: .nojekyll
-# =========================
-
-
-# (empty file)
